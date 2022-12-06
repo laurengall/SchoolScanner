@@ -1,0 +1,6 @@
+John,78
+Karen,44
+William,98
+Johanna,98
+Simone,78
+Lucy,87
